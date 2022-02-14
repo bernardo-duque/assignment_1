@@ -13,4 +13,5 @@ etapa 3:
 etapa 4:
 - descobrimos que precisamos voltar para o branch main e dar pull para atualizar o repositorio no local
 
-
+etapa 5:
+- terminamos nossas alteracoes no read_me e vamos usar as keywords para dar close nos issues
