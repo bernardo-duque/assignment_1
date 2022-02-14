@@ -10,3 +10,7 @@ etapa 2:
 etapa 3:
 - descobrimos que precisamos criar novas branches se quisermos adicionar um pull request
 
+etapa 4:
+- descobrimos que precisamos voltar para o branch main e dar pull para atualizar o repositorio no local
+
+
