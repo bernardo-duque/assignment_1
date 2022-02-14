@@ -1,17 +1,17 @@
 # assignment_1
 
 etapa 1: 
-- criamos os issues
-- criamos o milestone v01
+- Criamos os issues
+- Criamos o milestone v01
 
 etapa 2:
-- sucesso nos primeiros pull request
+- Sucesso nos primeiros pull request
 
 etapa 3:
-- descobrimos que precisamos criar novas branches se quisermos adicionar um pull request
+- Descobrimos que precisamos criar novas branches se quisermos adicionar um pull request
 
 etapa 4:
-- descobrimos que precisamos voltar para o branch main e dar pull para atualizar o repositorio no local
+- Descobrimos que precisamos voltar para o branch main e dar pull para atualizar o repositorio no local
 
 etapa 5:
-- terminamos nossas alteracoes no read_me e vamos usar as keywords para dar close nos issues
+- Terminamos nossas alteracoes no read_me e vamos usar as keywords para dar close nos issues
