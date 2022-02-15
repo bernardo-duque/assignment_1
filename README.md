@@ -15,3 +15,6 @@ etapa 4:
 
 etapa 5:
 - Terminamos nossas alteracoes no read_me e vamos usar as keywords para dar close nos issues
+
+etapa 6:
+- Terminamos a milestone e o assignment
